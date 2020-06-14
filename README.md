@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Jethackers/Jethackers/blob/master/logosmall.jpg">
+  <img src="https://github.com/Jethackers/Jethackers/blob/master/3%20(1).jpg">
 </p>
 
 
