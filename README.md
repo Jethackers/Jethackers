@@ -8,6 +8,9 @@
 
 **Jetpack** wants to be free 
 
+Jetpacks are the dream of millions of people .
+Our vision - the world where anybody can build his own jetpack in garage.
+
 ## Versions
 
 ### Jet hoverboard
