@@ -9,7 +9,15 @@
 **Jetpack** wants to be free 
 
 Jetpacks are the dream of millions of people .
+
+## Vision
+
 Our vision - the world where anybody can build his own jetpack in garage.
+
+<p align="center">
+  <img src="https://github.com/Jethackers/Jethackers/blob/master/raffey-cassidy-zemlya-buduschego.jpg">
+</p>
+
 
 ## Versions
 
