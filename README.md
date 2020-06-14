@@ -1,4 +1,6 @@
-# ![Jethackers][logo]
+<p align="center">
+  <img src="https://github.com/Jethackers/Jethackers/blob/master/logosmall.jpg">
+</p>
 
 **Jethackers** is a .
 
