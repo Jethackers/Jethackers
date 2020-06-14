@@ -32,7 +32,7 @@ snowboard + jet engine Jetcat 180NX (24 march, 2018)
 
 <!--lint ignore no-html maximum-line-length-->
 <p align="center">
-  <img src="https://github.com/Jethackers/Jethackers/blob/master/sponsors1.jpg">
+  <img src="https://github.com/Jethackers/Jethackers/blob/master/sponsors2.jpg">
 </p>
 
 ## Security
