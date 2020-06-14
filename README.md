@@ -11,7 +11,7 @@
 ## Versions
 
 <p align="center">
-  <img src="https://github.com/Jethackers/Jethackers/blob/master/logosmall.jpg">
+  <img src="https://github.com/Jethackers/Jethackers/blob/master/2019201.jpg">
 </p>
 
 <p align="center">
