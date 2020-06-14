@@ -15,7 +15,7 @@ Jetpacks are the dream of millions of people .
 Our vision - the world where anybody can build his own jetpack in garage.
 
 <p align="center">
-  <img src="https://github.com/Jethackers/Jethackers/blob/master/raffey-cassidy-zemlya-buduschego.jpg">
+  <img src="https://github.com/Jethackers/Jethackers/blob/master/YEQ5FV5UDM43FOYED27QJRSDVI.jpg">
 </p>
 
 
