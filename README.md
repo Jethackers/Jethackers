@@ -2,11 +2,11 @@
   <img src="https://github.com/Jethackers/Jethackers/blob/master/logosmall.jpg">
 </p>
 
-**Jethackers** is a .
+**Jethackers** is the community, that create open-source jetpack.
 
 ## Intro
 
-**Jethackers** is 
+**Jetpack** wants to be free 
 
 ## Sponsors
 
