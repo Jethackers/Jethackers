@@ -18,5 +18,5 @@
 
 
 
-[logo]: https://sun9-21.userapi.com/c846420/v846420227/63528/3W3LFJBEQP0.jpg
+[logo]: https://github.com/Jethackers/Jethackers/blob/master/logosmall.jpg
 
