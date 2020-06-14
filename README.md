@@ -8,6 +8,18 @@
 
 **Jetpack** wants to be free 
 
+## Versions
+
+<p align="center">
+  <img src="https://github.com/Jethackers/Jethackers/blob/master/logosmall.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Jethackers/Jethackers/blob/master/logosmall.jpg">
+</p>
+
+
+
 ## Sponsors
 
 <!--lint ignore no-html maximum-line-length-->
